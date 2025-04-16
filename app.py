@@ -1,5 +1,5 @@
 
-# Task 1: Import the Libraries
+# Import the Libraries
 import streamlit as st
 from dotenv import load_dotenv
 from langchain.embeddings import HuggingFaceEmbeddings, OpenAIEmbeddings
