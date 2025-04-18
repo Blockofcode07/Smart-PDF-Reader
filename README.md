@@ -20,3 +20,5 @@ In this project, We’ll create an interactive PDF reader using **LangChain** an
 
 This makes it easy to understand and explore any PDF with simple questions and answers.
 
+### Thank You for Your Time!
+![SMART PDF READER UI](images/s-p-r-ui.png)
