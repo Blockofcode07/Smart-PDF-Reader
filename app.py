@@ -22,7 +22,7 @@ def main():
     # Task 3: Create Web-page Layout
     load_dotenv()
     st.set_page_config(layout="wide", 
-                       page_title="Interactive Reader",
+                       page_title="SMART PDF Reader",
                        page_icon=":books:")
     
     st.write(css, unsafe_allow_html=True)
